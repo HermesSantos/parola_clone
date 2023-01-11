@@ -1,12 +1,8 @@
-.foi{
-  border: 5px;
-  border-color: black;
+body{
+  text-align: center;
 }
-.opa{
-  margin-left: 50%;
-  width: 100px;
-}
-.inputer{
-  width: 10px;
-  margin: 5px;
+input{
+  height: 40px;
+  width: 40px;
+  text-align: center;
 }
